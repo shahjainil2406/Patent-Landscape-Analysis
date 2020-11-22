@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v44-2014-04-03.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.4 2014-04-03" file="US20200107484A1-20200409.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20200325" date-publ="20200409">
+	<us-bibliographic-data-application lang="EN" country="US">
+		<publication-reference>
+			<document-id>
+				<country>US</country>
+				<doc-number>20200107484</doc-number>
+				<kind>A1</kind>
+				<date>20200409</date>
+			</document-id>
+		</publication-reference>
+		
+		<application-reference appl-type="utility">
+			<document-id>
+				<country>US</country>
+				<doc-number>16662101</doc-number>
+				<date>20191024</date>
+			</document-id>
+		</application-reference>
+		
+		<us-application-series-code>16</us-application-series-code>
+		
+		<priority-claims>
+			<priority-claim sequence="01" kind="national">
+				<country>RU</country>
+				<doc-number>2017114814</doc-number>
+				<date>20170426</date>
+			</priority-claim>
+		</priority-claims>
+		
+		<classifications-ipcr>
+			<classification-ipcr>
+				<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+				<classification-level>A</classification-level>
+				<section>A</section>
+				<class>01</class>
+				<subclass>B</subclass>
+				<main-group>51</main-group>
+				<subgroup>04</subgroup>
+				<symbol-position>F</symbol-position>
+				<classification-value>I</classification-value>
+				<action-date><date>20200409</date></action-date>
+				<generating-office><country>US</country></generating-office>
+				<classification-status>B</classification-status>
+				<classification-data-source>H</classification-data-source>
+			</classification-ipcr>
+
+			<classification-ipcr>
+				<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+				<classification-level>A</classification-level>
+				<section>A</section>
+				<class>01</class>
+				<subclass>B</subclass>
+				<main-group>49</main-group>
+				<subgroup>06</subgroup>
+				<symbol-position>L</symbol-position>
+				<classification-value>I</classification-value>
+				<action-date><date>20200409</date></action-date>
+				<generating-office><country>US</country></generating-office>
+				<classification-status>B</classification-status>
+				<classification-data-source>H</classification-data-source>
+			</classification-ipcr>
+
+			<classification-ipcr>
+				<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+				<classification-level>A</classification-level>
+				<section>A</section>
+				<class>01</class>
+				<subclass>B</subclass>
+				<main-group>79</main-group>
+				<subgroup>02</subgroup>
+				<symbol-position>L</symbol-position>
+				<classification-value>I</classification-value>
+				<action-date><date>20200409</date></action-date>
+				<generating-office><country>US</country></generating-office>
+				<classification-status>B</classification-status>
+				<classification-data-source>H</classification-data-source>
+				</classification-ipcr>
+				<classification-ipcr>
+				<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+				<classification-level>A</classification-level>
+				<section>A</section>
+				<class>01</class>
+				<subclass>B</subclass>
+				<main-group>79</main-group>
+				<subgroup>00</subgroup>
+				<symbol-position>L</symbol-position>
+				<classification-value>I</classification-value>
+				<action-date><date>20200409</date></action-date>
+				<generating-office><country>US</country></generating-office>
+				<classification-status>B</classification-status>
+				<classification-data-source>H</classification-data-source>
+			</classification-ipcr>
+		</classifications-ipcr>
+		
+		<classifications-cpc>
+			<main-cpc>
+				<classification-cpc>
+					<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+					<section>A</section>
+					<class>01</class>
+					<subclass>B</subclass>
+					<main-group>51</main-group>
+					<subgroup>04</subgroup>
+					<symbol-position>F</symbol-position>
+					<classification-value>I</classification-value>
+					<action-date><date>20200409</date></action-date>
+					<generating-office><country>US</country></generating-office>
+					<classification-status>B</classification-status>
+					<classification-data-source>H</classification-data-source>
+					<scheme-origination-code>C</scheme-origination-code>
+				</classification-cpc>
+			</main-cpc>
+			
+			<further-cpc>
+				<classification-cpc>
+					<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+					<section>A</section>
+					<class>01</class>
+					<subclass>B</subclass>
+					<main-group>79</main-group>
+					<subgroup>005</subgroup>
+					<symbol-position>L</symbol-position>
+					<classification-value>I</classification-value>
+					<action-date><date>20200409</date></action-date>
+					<generating-office><country>US</country></generating-office>
+					<classification-status>B</classification-status>
+					<classification-data-source>H</classification-data-source>
+					<scheme-origination-code>C</scheme-origination-code>
+				</classification-cpc>
+				
+				<classification-cpc>
+					<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+					<section>A</section>
+					<class>01</class>
+					<subclass>B</subclass>
+					<main-group>79</main-group>
+					<subgroup>02</subgroup>
+					<symbol-position>L</symbol-position>
+					<classification-value>I</classification-value>
+					<action-date><date>20200409</date></action-date>
+					<generating-office><country>US</country></generating-office>
+					<classification-status>B</classification-status>
+					<classification-data-source>H</classification-data-source>
+					<scheme-origination-code>C</scheme-origination-code>
+				</classification-cpc>
+
+				<classification-cpc>
+					<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+					<section>A</section>
+					<class>01</class>
+					<subclass>B</subclass>
+					<main-group>49</main-group>
+					<subgroup>06</subgroup>
+					<symbol-position>L</symbol-position>
+					<classification-value>I</classification-value>
+					<action-date><date>20200409</date></action-date>
+					<generating-office><country>US</country></generating-office>
+					<classification-status>B</classification-status>
+					<classification-data-source>H</classification-data-source>
+					<scheme-origination-code>C</scheme-origination-code>
+				</classification-cpc>
+			</further-cpc>
+		</classifications-cpc>
+
+		<invention-title id="d2e61">METHOD FOR CULTIVATING SOWN CROPS AND APPARATUS FOR CARRYING OUT SAID METHOD (VARIANTS)</invention-title>
+
+		<us-related-documents>
+			<continuation>
+				<relation>
+					<parent-doc>
+						<document-id>
+							<country>US</country>
+							<doc-number>PCT/RU2018/000238</doc-number>
+							<date>20180418</date>
+						</document-id>
+						
+						<parent-status>PENDING</parent-status>
+					</parent-doc>
+					
+					<child-doc>
+						<document-id>
+							<country>US</country>
+							<doc-number>16662101</doc-number>
+						</document-id>
+					</child-doc>
+				</relation>
+			</continuation>
+		</us-related-documents>
+
+		<us-parties>
+			
+			<us-applicants>
+				<us-applicant sequence="00" app-type="applicant" designation="us-only">
+					<addressbook>
+						<last-name>BRINDYUK</last-name>
+						<first-name>Sergei Vladimirovich</first-name>
+						<address>
+							<city>Alekseevka</city>
+							<country>RU</country>
+						</address>
+					</addressbook>
+					<residence>
+						<country>RU</country>
+					</residence>
+				</us-applicant>
+			</us-applicants>
+
+			<inventors>
+				<inventor sequence="00" designation="us-only">
+					<addressbook>
+						<last-name>BRINDYUK</last-name>
+						<first-name>Sergei Vladimirovich</first-name>
+						<address>
+							<city>Alekseevka</city>
+							<country>RU</country>
+						</address>
+					</addressbook>
+				</inventor>
+			</inventors>
+		</us-parties>
+		
+	</us-bibliographic-data-application>
+
+	<abstract id="abstract">
+		<p id="p-0001" num="0000">A method for increasing the efficiency of farming operations used in the production of sown crops. In the proposed method for cultivating sown crops, all bar none of the technological operations which are carried out in the field, beginning from pre-sowing preparation and ending with the gathering of a harvest, make use of a self-propelled power-operated technological device capable of functioning on tires having a super-low pressure of 5-60 kPa and/or with a pressure on the ground of less than 60 kPa. The proposed method is realized with the aid of a transport and technological system primarily for farming purposes, that utilizes a self-propelled power-operated vehicle on tires of super-low pressure operating among others at a pressure of 5 to 60 kPa and/or exerting a pressure of less than 60 kPa on the soil. This vehicle is equipped with a discharging device and/or a lifting device.</p>
+	</abstract>
+
+	<drawings id="DRAWINGS">
+		
+		<figure id="Fig-EMI-D00000" num="00000">
+			<img id="EMI-D00000" he="48.77mm" wi="136.65mm" file="US20200107484A1-20200409-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+		</figure>
+		
+		<figure id="Fig-EMI-D00001" num="00001">
+			<img id="EMI-D00001" he="207.26mm" wi="153.75mm" file="US20200107484A1-20200409-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+		</figure>
+
+		<figure id="Fig-EMI-D00002" num="00002">
+			<img id="EMI-D00002" he="86.44mm" wi="122.60mm" file="US20200107484A1-20200409-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+		</figure>
+	</drawings>
+
+	<description id="description">
+		<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+			<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+			<p id="p-0002" num="0001">This is a Continuation of International Application PCT/RU2018/000238, which has an international filing date of Apr. 18, 2018, and which claims the priority of Russian Patent Application 2017114814, filed Apr. 26, 2017. The disclosures of both applications are incorporated in their respective entireties into the present Continuation by reference.</p>
+		<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+	
+		<?summary-of-invention description="Summary of Invention" end="lead"?>
+			<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+				<p id="p-0003" num="0002">The invention relates to agricultural production, particularly to the production of crops which are sown.</p>
+			
+			<heading id="h-0003" level="1">BACKGROUND</heading>
+				<p id="p-0004" num="0003">Recently, one of the problems of achieving high yields of good quality of crops is not only the problem of timely sowing thereof, moisture detention in the soil, weed control, but also the preservation and restoration of natural fertility of the soil.</p>
+				<p id="p-0005" num="0004">Achieving high yields largely depends on the amount of moisture in the soil. The probable level of spring wheat yield depending on the depth of moisture permeation of the soil in spring is presented below (data from the Swift Current Experimental Station (Canada)):</p>
+<p id="p-0006" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="84pt" align="center"/>
+<colspec colname="2" colwidth="133pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Depth of moisture</entry>
+<entry>Probability of achieving a yield, dt/ha</entry>
+</row>
+<row>
+<entry>permeation of the</entry>
+<entry>[dt/ha = 100 kilograms per hectare]</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="84pt" align="center"/>
+<colspec colname="2" colwidth="56pt" align="center"/>
+<colspec colname="3" colwidth="77pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>soil in spring, cm</entry>
+<entry>more than 10</entry>
+<entry>more than 17</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>&#x2002;0-50</entry>
+<entry>2: 10</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry>50-68</entry>
+<entry>3: 10</entry>
+<entry>1: 10</entry>
+</row>
+<row>
+<entry>68-82</entry>
+<entry>6: 10</entry>
+<entry>2: 10</entry>
+</row>
+<row>
+<entry>&#x2002;82-112</entry>
+<entry>7: 10</entry>
+<entry>3: 10</entry>
+</row>
+<row>
+<entry>More than 112</entry>
+<entry>9: 10</entry>
+<entry>6: 10</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0007" num="0005">As can be seen, the lack of moisture during the plant vegetation period significantly reduces the yield. In order to preserve and use moisture, it is necessary to optimize the timing of the activities, which is not possible with traditional technologies requiring that the soil reaches physical maturity and that the activities are performed thereafter, i.e. when the soil will be least resistant to mechanical processing. The relation of resistance to mechanical processing and soil moisture is apparent from the graph (see <figref idref="DRAWINGS">FIG. 4</figref>), where K is the resistance to mechanical processing and Wa is the absolute soil moisture.</p>
+<p id="p-0008" num="0006">When plowing dry soil (segment A-B) lumps with a diameter of up to 0.5 m and more are formed. When plowing oversaturated soil (segment C-D), there is strong adhesion and clumps and crusts of soil are formed in front of the soil processing assembly. This leads to an increase in the specific resistance of the soil and poor placement of plant residues, and most importantly reduces the natural fertility of the soil. Upon a further increase in moisture (segment D-E), water acts as lubricant and &#x201c;K<sub>o</sub>&#x201d; decreases. However, the main existing types of soil processing and sowing assemblies are not capable of performing their functions with the required quality at high moisture. For traditional types of appliances, point C is the upper limit of physical maturity of the soil. It differs from soil type to soil type and ranges from 15 to 35% absolute moisture.</p>
+<p id="p-0009" num="0007">An example of typical, heavy loam chernozem [&#x201c;black soil&#x201d; ]:</p>
+<p id="p-0010" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Soil type,</entry>
+<entry>Maximum field</entry>
+<entry>Moisture</entry>
+<entry>Moisture</entry>
+<entry>Physical</entry>
+</row>
+<row>
+<entry>mechanical</entry>
+<entry>moisture</entry>
+<entry>of capillary</entry>
+<entry>of wilting</entry>
+<entry>maturity,</entry>
+</row>
+<row>
+<entry>composition</entry>
+<entry>capacity %</entry>
+<entry>break, %</entry>
+<entry>point</entry>
+<entry>%</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>Typical, heavy</entry>
+<entry>30-34</entry>
+<entry>17-20</entry>
+<entry>12-15</entry>
+<entry>15-20</entry>
+</row>
+<row>
+<entry>loam chernozem</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+<br/>
+(see &#x201c;Characteristics of water properties of soils&#x201d; I. S. Kaurychev, 1989; V. P. Kovrigo, 2000)
+</p>
+<p id="p-0011" num="0008">It is clearly apparent that the onset of physical maturity of the soil coincides with the beginning of capillary break 17-20%, which leads to the beginning of lack of moisture in the plant.</p>
+<p id="p-0012" num="0009">Due to the disadvantages of the existing technologies, there is an inefficient waste of time while waiting for the physical maturation of the soil.</p>
+<p id="p-0013" num="0010">Within the high moisture range, sowing can be done by scattering, but this is seriously disadvantageous for most crops. If there is no rain or irrigation, scattered sowing can result in death of crop because the tiller node, e.g. of spring crops, will be on the surface in the zone lacking moisture. Seeds must be immersed in the soil at a depth of at least 0.5 cm.</p>
+<p id="p-0014" num="0011">It is known that at the first time the yield of virgin and fallow land is significantly higher than the yield of the same land in the following years. This is also due to the negative impact of agricultural production technologies on natural fertility, for example, due to compacting the soil. With the existing technologies of crop cultivation, the quantity of operations (number of machine passes) on one field fluctuates from 10-15 to 20-25 times. As a result, the compaction area is 2-3 times larger than the field area. For example, the compaction area of 1 ha upon cultivation of winter wheat is 22-26 thousand square meters. Only in spring, at three operations up to 84-91% of the field area are covered by passes of machine/tractor assemblies.</p>
+<p id="p-0015" num="0012">Soil compaction has a negative impact on water/physical properties. Porosity, water filtration and aeration are reduced, and conditions for the development of the root system of plants sharply deteriorate. As a result, crop yields are reduced by 10-30%. It was found in experiments of the Institute of Agriculture and the Institute of Mechanization and Electrification of the UAAS (1982-1985) that upon three passes of the tractor there was a decrease in yields: winter wheat grain by 4-18%, oats&#x2014;2-13, green mass corn&#x2014;by 4-14%. Sod-podzolic sandy loam soils are less resistant to machine compaction. Crop failure of barley grain due to compaction of these soils was 2.1-5.6 dt/ha (9-24%), on chernozems 1.7-4.6 dt/ha (4-12%) (Chernihiv experimental station). Soil compaction by agricultural machines in technological processes increases traction resistance by 10-17%, reduces productivity of the assemblies by 8-12% and deteriorates the quality of processing as a whole (A. M. Maliyenko, M. V. Kolomiets).</p>
+<p id="p-0016" num="0013">A method of producing crops, which includes loosening the soil, forming a ridge profile of the soil, sowing the seeds by laying and pressing with subsequent mulching, is known (see patent RU 2378815, IPC class A01C7/00, of 17 Apr. 2008).</p>
+<p id="p-0017" num="0014">A method of producing crops, which includes the operation of loosening the soil in autumn and spring, sowing seeds in the processed soil and compacting the sowing furrow, is known (see &#x201c;Technology and technical means for the strip sowing of grass seeds in the turf&#x201d; Recommendations of NIIKSH Severo-Vostoka Im. N. V. Rudnitskogo, Kirov, 2000&#x2014;58c&#x2014;prototype).</p>
+<p id="p-0018" num="0015">The general disadvantage of known methods lies in the low efficiency of agricultural activities, significant loss of soil moisture when it is loosened in spring, the difficulty of complying with the optimal agrotechnical seed sowing periods, due to the necessity of plowing in spring prior to sowing, which is practically impossible on physically immature soil. Moreover, even when working on physically mature soil with the existing, traditional agricultural assemblies with traditional power-operated vehicles, this leads to significant compaction of the soil, which negatively affects its fertility and yield of both sown crops and crops of the following agricultural period.</p>
+<p id="p-0019" num="0016">Agricultural assemblies are known (see patents RU 2227966 of 10 May 2004 or RU 2297126 of 20 Apr. 2007, IPC A01B49\06)</p>
+<p id="p-0020" num="0017">The general disadvantage of known apparatus lies in the lack of efficiency of agricultural sowing activities which are due to their low cross-country ability, their high mass and dimensions and the significant compaction of the soil cultivated by said apparatus.</p>
+<p id="p-0021" num="0018">An agricultural assembly is known (see patent RU 2594532 of 23 Apr. 2013, IPC A01B49\06&#x2014;prototype). In said assembly, for instance a &#x201c;Bars-271&#x201d; apparatus is used as power-operated vehicle.</p>
+<p id="p-0022" num="0019">However, the known apparatus is only capable of performing single agricultural operations due to the lack of the necessary universal lifting-hitching device and also due to its low payload.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0023" num="0020">One object of the proposed invention is to increase the efficiency of agricultural activities, namely:</p>
+<p id="p-0024" num="0021">reducing loss of the spring soil moisture reserves,</p>
+<p id="p-0025" num="0022">optimizing the periods of sowing activities,</p>
+<p id="p-0026" num="0023">obtaining strong shoots,</p>
+<p id="p-0027" num="0024">shifting the periods of sowing activities forward to an earlier period,</p>
+<p id="p-0028" num="0025">reducing the dependence of sowing activities on soil conditions,</p>
+<p id="p-0029" num="0026">increasing the environmental friendliness of agricultural production, and consequently of the produced crops,</p>
+<p id="p-0030" num="0027">reducing the negative impact of the agricultural assembly on the soil and of the soil on parts of the assembly,</p>
+<p id="p-0031" num="0028">increasing the speed of agricultural activities,</p>
+<p id="p-0032" num="0029">reducing the specific fuel consumption during the performance of agricultural activities,</p>
+<p id="p-0033" num="0030">increasing the payload of the agricultural assembly with minimal pressure on the soil,</p>
+<p id="p-0034" num="0031">expanding the functionalities of the agricultural assembly while performing activities with minimal pressure on the soil.</p>
+<p id="p-0035" num="0032">This object is solved in that in the known method for cultivating crops, including the technological operations of sowing and harvesting, according to one aspect of the invention, in all technological operations&#x2014;without exception&#x2014;performed on the field, starting from its preparation prior to sowing and ending with harvesting, a self-propelled power-operated vehicle is used which is capable of operating on tires having an ultra-low pressure of 5-60 kPa and/or with a pressure on the ground of less than 60 kPa (where 1 kg/cm<sup>2 </sup>equals 98.0665 kPa).</p>
+<p id="p-0036" num="0033">Furthermore, it is possible to achieve said positive effect, albeit in slightly reduced form, by using the further variants of the proposed invention.</p>
+<p id="p-0037" num="0034">A further variant of the method for cultivating crops, including the technological operations of sowing and harvesting, in which according to the invention, in technological operations performed on the field, at any absolute soil moisture a self-propelled power-operated vehicle is used which is capable of operating on tires having an ultra-low pressure of 5-60 kPa and/or with a pressure on the ground of less than 60 kPa, and power-operated vehicles with a pressure on the soil of more than 60 kPa are only used at an absolute soil moisture of less than 26%.</p>
+<p id="p-0038" num="0035">A further variant of the method for cultivating crops is the method including the technological operations of sowing and harvesting, in which according to the invention, in technological operations performed on the field, at any absolute soil moisture a self-propelled power-operated vehicle is used which is capable of operating on tires having an ultra-low pressure of 5-60 kPa and/or with a pressure on the ground of less than 60 kPa, and power-operated vehicles with a pressure on the soil of more than 60 kPa are only used at an absolute soil moisture of less than 1% of physical maturity of the soil.</p>
+<p id="p-0039" num="0036">A further variant of the method for cultivating crops is the method for cultivating crops including the technological operations of sowing and harvesting, in which according to the invention, in all technological operations performed on the field, a self-propelled power-operated vehicle is used which is capable of operating on tires having an ultra-low pressure of 5-60 kPa and/or with a pressure on the ground of less than 60 kPa, and power-operated vehicles with a pressure on the soil of more than 60 kPa are used not more than 4 times per season.</p>
+<p id="p-0040" num="0037">A further variant of the method for cultivating crops is the method for cultivating crops including the technological operations of sowing and harvesting, in which according to the invention, in all technological operations performed on the field, a self-propelled power-operated vehicle is used which is capable of operating on tires having an ultra-low pressure of 5-60 kPa and/or with a pressure on the ground of less than 60 kPa, and power-operated vehicles with a pressure on the soil of more than 60 kPa are only used for harvesting.</p>
+<p id="p-0041" num="0038">A further variant of the method for cultivating crops is the method for producing crops including the technological operations of sowing and harvesting, in which according to the invention, in more than three different technological operations, a self-propelled power-operated vehicle is used which is capable of operating on tires having an ultra-low pressure of 5-60 kPa and/or with a pressure on the ground of less than 60 kPa, and power-operated vehicles with a pressure on the soil of more than 60 kPa are only used at an absolute soil moisture of less than 26%.</p>
+<p id="p-0042" num="0039">A further variant of the method for cultivating crops is the method for producing crops including the technological operations of sowing and/or spreading of fertilizer and/or spraying of crops, in which according to the invention, the operations of loosening the soil and/or processing the soil and/or cultivation and/or mowing and/or threshing and/or harvesting of crops and/or preparation of the soil and/or applying subsurface fertilizer and/or mechanically eliminating weeds and/or pests and/or mulching and/or agricultural transport operations and/or soil slitting and/or leveling/loosening and/or rolling and/or hilling and/or ridging and/or moisture detention are carried out by a self-propelled power-operated vehicle which is capable of operating on tires having an ultra-low pressure of 5-60 kPa and/or with a pressure on the ground of less than 60 kPa, at an absolute soil moisture of up to 70%.</p>
+<p id="p-0043" num="0040">The proposed method is realized by a transport and technological assembly mainly for agricultural purposes, including a self-propelled power-operated vehicle on ultra-low pressure tires operating, inter alia, at a pressure of 5 to 60 kPa and/or exerting a pressure of less than 60 kPa on the soil, which, according to the invention, is equipped with a discharging and/or lifting device.</p>
+<p id="p-0044" num="0041">Moreover, the discharging device has a discharging wheel (wheels) realized on an ultra-low pressure tire operating, inter alia, at a pressure of 5 to 60 kPa.</p>
+<p id="p-0045" num="0042">Moreover, the discharging wheels are equipped with an adjusting device for the processing width.</p>
+<p id="p-0046" num="0043">Moreover, the discharging wheel or wheels are mounted on the aggregate equipment.</p>
+<p id="p-0047" num="0044">Moreover, the transport and technological assembly mainly for agricultural purposes is equipped with a system for lifting and lowering the discharging device or the discharging wheels and/or the aggregate equipment.</p>
+<p id="p-0048" num="0045">Moreover, the transport and technological assembly is equipped with a system for lifting and lowering the discharging device or the discharging wheels and/or the aggregate equipment, which is equipped with a hydraulic drive or a hydraulic cylinder.</p>
+<p id="p-0049" num="0046">Moreover, the discharging device and/or the universal lifting-hitching device and/or the aggregate equipment is configured so that it can be turned.</p>
+<p id="p-0050" num="0047">Moreover, the discharging device is configured in the form of a semi-trailer on ultra-low pressure tires operating, inter alia, at a pressure of 5 to 60 kPa.</p>
+<p id="p-0051" num="0048">Moreover, on the transport and technological assembly, a harrow or cultivator or sower or fertilizer applicator or binder or mower or thresher or plow is used as aggregate equipment.</p>
+<p id="p-0052" num="0049">The entirety of said features makes new properties possible, i.e. by applying said features the following advantages are rendered possible:</p>
+<p id="p-0053" num="0050">reducing loss of the spring soil moisture reserves (since the activities are carried out in the period when the absolute soil moisture is more than 2% higher than the upper moisture limit of physical maturity of the soil and most of it remains in the soil),</p>
+<p id="p-0054" num="0051">optimizing the periods of sowing activities, (since the activities are carried out in the period when the absolute soil moisture is more than 2% higher than the upper moisture limit of physical maturity of the soil, i.e. in the period when it is optimal for certain crops, e.g. barley, according to agrotechnical parameters).</p>
+<p id="p-0055" num="0052">obtaining strong shoots (due to the optimal sowing period and sprouting of seeds at increased soil moisture),</p>
+<p id="p-0056" num="0053">shifting the periods of sowing activities forward to an earlier period (since the activities are carried out in the period when the absolute soil moisture is more than 2% higher than the upper moisture limit of physical maturity of the soil),</p>
+<p id="p-0057" num="0054">reducing the dependence of sowing activities on soil conditions (since the proposed agricultural assembly for soil processing allows the performance of agricultural activities inter alia in the period when the absolute soil moisture is more than 2% higher than the upper moisture limit of physical maturity of the soil),</p>
+<p id="p-0058" num="0055">increasing the environmental friendliness of agricultural production, and consequently of the produced sown crops (as a result of the overall reduction of the use of herbicides and mineral fertilizers, but with an increased yield of sown crops),</p>
+<p id="p-0059" num="0056">reducing the negative impact of the agricultural assembly on the soil and of the soil on parts of the assembly (due to the reduction of the total weight of the sowing assembly and the specific pressure on the soil, the soil is less compacted, and since the soil is moister it has a weaker impact on the parts of the assembly),</p>
+<p id="p-0060" num="0057">increasing the speed of sowing activities (which is facilitated since the soil offers less resistance to the operating parts of the assembly),</p>
+<p id="p-0061" num="0058">increasing the period of vegetative development of crops (which is facilitated since the agricultural activities are carried out earlier),</p>
+<p id="p-0062" num="0059">reducing the specific fuel consumption (due to the increased speed when agricultural activities are carried out and since the soil offers less resistance to the operating parts of the assembly),</p>
+<p id="p-0063" num="0060">reducing the mass and dimensions of the sowing assembly (this becomes possible due to reduced loads on the parts of the assembly), and</p>
+<p id="p-0064" num="0061">expanding the functionalities of the agricultural assembly while performing activities with minimal pressure on the soil (since it is equipped with a power-operated vehicle on ultra-low pressure tires operating, inter alia, at a pressure of 5 to 60 kPa and/or exerting a pressure of less than 60 kPa on the soil, with a universal lifting-hitching device and/or a discharging device which allows the use of an entire range of agricultural technological equipment).</p>
+<p id="p-0065" num="0062">The main effect is that if no soil compacting procedures are performed on the field, the soil will attain its natural density within a few years which is comfortable for the existence of all types of necessary bacteria and other living creatures, which leads to increased fertility.</p>
+<p id="p-0066" num="0063">In this way, the entirety of the proposed features makes new properties possible, i.e. by applying said features it is possible to reduce the loss of spring moisture, it becomes possible to optimize the sowing periods, to significantly reduce soil compaction by agricultural assemblies almost to the pristine level, which altogether leads to an increased efficiency of agricultural activities, an increased yield while reducing the amount of applied chemicals, and increased environmental friendliness.</p>
+<p id="p-0067" num="0064">Consequently, the proposed invention meets the criteria of &#x201c;novelty&#x201d; and &#x201c;inventive step&#x201d;.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0068" num="0065">The proposed technical solutions are shown schematically in the figures, in which:</p>
+<p id="p-0069" num="0066"><figref idref="DRAWINGS">FIG. 1</figref> shows a self-propelled power-operated vehicle on ultra-low pressure tires, equipped with universal lifting, hitching and discharging devices with a hydraulic cylinder and discharging wheels equipped with an adjusting device for the processing width.</p>
+<p id="p-0070" num="0067"><figref idref="DRAWINGS">FIG. 2</figref> shows a self-propelled power-operated vehicle on ultra-low pressure tires, equipped with a universal lifting-hitching device and a discharging device (configured so that the aggregate equipment can be turned).</p>
+<p id="p-0071" num="0068"><figref idref="DRAWINGS">FIG. 3</figref> shows a self-propelled power-operated vehicle on ultra-low pressure tires, equipped with a discharging device configured in the form of a semi-trailer on ultra-low pressure tires operating, inter alia, at a pressure of 5 to 60 kPa.</p>
+<p id="p-0072" num="0069"><figref idref="DRAWINGS">FIG. 4</figref> shows resistance to mechanical processing in relation to soil moisture.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0073" num="0070">The following designations are used in the figures:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0071"><b>1</b> self-propelled, power-operated vehicle on ultra-low pressure tires,</li>
+        <li id="ul0002-0002" num="0072"><b>2</b> ultra-low pressure tire,</li>
+        <li id="ul0002-0003" num="0073"><b>3</b> universal lifting device,</li>
+        <li id="ul0002-0004" num="0074"><b>4</b> hitching device,</li>
+        <li id="ul0002-0005" num="0075"><b>5</b> discharging device,</li>
+        <li id="ul0002-0006" num="0076"><b>6</b> discharging wheel,</li>
+        <li id="ul0002-0007" num="0077"><b>7</b> aggregate equipment,</li>
+        <li id="ul0002-0008" num="0078"><b>8</b> adjusting device for the processing width,</li>
+        <li id="ul0002-0009" num="0079"><b>9</b> hydraulic cylinder,</li>
+        <li id="ul0002-0010" num="0080"><b>10</b> turning device,</li>
+        <li id="ul0002-0011" num="0081"><b>11</b> semi-trailer</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0074" num="0082">The transport and technological assembly for agricultural purposes (<figref idref="DRAWINGS">FIG. 1</figref>) includes a self-propelled power-operated vehicle <b>1</b> on ultra-low pressure tires <b>2</b> operating, inter alia, at a pressure of 5 to 60 kPa and/or exerting a pressure of less than 60 kPa on the soil. It is equipped with a universal lifting <b>3</b> and hitching device <b>4</b> and discharging device <b>5</b>, which includes a discharging wheel <b>6</b>, (mounted on the aggregate equipment <b>7</b>), realized on an ultra-low pressure tire operating, inter alia, at a pressure of 5 to 60 kPa, (in a variant with two discharging wheels, they are equipped with an adjusting device for the processing width <b>8</b>). The system of discharging wheels is equipped with a hydraulic cylinder <b>9</b>.</p>
+<p id="p-0075" num="0083">A variant is possible, wherein the discharging device is configured so that the aggregate equipment can be turned (see <figref idref="DRAWINGS">FIG. 2</figref>), where the turning device <b>10</b> is shown.</p>
+<p id="p-0076" num="0084">A variant of the assembly, wherein the discharging device is configured in the form of a semi-trailer <b>11</b> on ultra-low pressure tires operating, inter alia, at a pressure of 5 to 60 kPa, is shown in <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0077" num="0085">The technical solution fulfills the criterion of &#x201c;industrial applicability&#x201d; as shown by the examples given below of the specific use of the proposed invention.</p>
+<p id="p-0078" num="0086">The proposed method of agricultural activities was tested through the example of sunflower crops on the farm &#x201c;UNI&#x201d; LLC in the Olkhovatsky District of the Voronezh Region. To increase the reliability of the experiment, a field with a total area of 123 hectare (ha) was divided into two sections. In the first section of the field, sunflower cultivation was carried out in a traditional way, and in the second one according to the proposed invention.</p>
+<p id="p-0079" num="0087">Both according to the proposed and traditional method, the soil was to be prepared in autumn, including plowing and the elimination of weeds. However, in the spring period before sowing, no operations at all were to be carried out on the soil. Sowing was carried out on the soil prepared in autumn, immediately when weeds were sprouting, without prior cultivation. The sowing activities in the field section cultivated using the proposed method were completed 18 days earlier than with the traditional method (since the soil temperature at that time reached an optimum for the development of cold-resistant sunflower seeds), and immediately after the rain, at a soil moisture of 50%.</p>
+<p id="p-0080" num="0088">Within 5 days after sowing, using a universal transport and technological vehicle on ultra-low pressure tires &#x201c;Bars-271&#x201d;, chemical treatment with continuously acting herbicides was carried out. The wheeled propeller of said vehicle exerts a pressure of about 17 kPa on the soil, and therefore no tracks were formed; consequently, at a seed placement depth of about 5 cm the germinating sprouts of the seeds in the soil were not injured.</p>
+<p id="p-0081" num="0089">Chemical weeding before sprouting allowed to eliminate weeds and not to suppress the growth of cultivated plants. High efficiency of the chemical treatment was achieved by the use of a low volume sprayer with a flow rate of working fluid of 20-60 l/ha. Withered weeds created a &#x201c;parasol&#x201d; on top of the soil, which protects the space between the rows from direct sunlight, and consequently reduces the evaporation of moisture and soil cracking, and also prevents the growth of a second wave of weeds.</p>
+<p id="p-0082" num="0090">The sunflowers on the second section of the field ripened 10 days earlier than with the traditional method. The sunflowers ripened earlier since the seeds were placed in the soil having the optimal temperature; there was no direct contact of the cultivated plants with herbicide; withered weeds did not allow the soil to be heated up significantly and to crack, and therefore the moisture in the soil was preserved.</p>
+<p id="p-0083" num="0091">According to the traditional method, chemical treatment was carried out after sunflower sprouting, by a self-propelled sprayer, and the soil was not protected from sunlight. It is to be noted that it did not rain at all in the area of this field over the entire summer period. The soil was covered with deep cracks in this section.</p>
+<p id="p-0084" num="0092">The crop yield in the field section cultivated according to the proposed method amounted to 22.39 dt/ha (dt/ha=100 kilograms per hectare), and to 9.1 dt/ha in the section cultivated traditionally; thus, the difference in crop yield was 13.29 dt/ha.</p>
+<p id="p-0085" num="0093">In addition, the proposed method was tested in NPF [Nauchno-Proizvodstvennaja Firma/Research and Production Company] &#x201c;Belagrospetsmash&#x201d;, a developer and manufacturer of agricultural appliances on ultra-low pressure tires. NPF &#x201c;Belagrospetsmash&#x201d; is also seriously engaged in research, both of the appliances and the agricultural production technologies on which they are based.</p>
+<p id="p-0086" num="0094">In the agricultural season of 2017, the following tests were carried out on the experimental field of NPF.</p>
+<p id="p-0087" num="0095">The bean crop lupin was chosen as test crop. In spring, after snowmelt and after the weeds have begun to form root systems, at an absolute soil moisture of about 65%, the soil surface was loosened and weed germs were removed. For this activity, a self-propelled power-operated vehicle was used which is capable of operating on tires having an ultra-low pressure of 5-60 kPa and with a pressure on the ground of less than 60 kPa, UTES-271 &#x201c;Bars&#x201d; manufactured by NPF &#x201c;Belagrospetsmash&#x201d;, with a milling cutter as aggregate (also developed by NPF &#x201c;Belagrospetsmash&#x201d;), and equipped with discharging and lifting devices, and discharging wheels realized on ultra-low pressure tires operating, inter alia, at a pressure of 5 to 60 kPa with a possibility of adjusting the processing width (for choosing the appropriate track size and minimal pressure and minimal damage on the crops). The discharging device is configured so that it can be turned (which is important for reducing the length of the turning circle, and consequently for reducing soil compaction). It is connected with the lifting device by a hydraulic cylinder (when it is actuated and the milling cutter is transferred to the transport position, inter alia during turning, the pressure inside the tire changes from 5 to 55 kPa, the contact patch increases, and there is no increase in soil compaction).</p>
+<p id="p-0088" num="0096">As a result of the performed activities, all weeds having begun to grow were eliminated, and due to the use of the transport and technological assembly including a self-propelled power-operated vehicle on ultra-low pressure tires operating, inter alia, at a pressure of 5 to 60 kPa exerting a pressure of less than 60 kPa on the soil, aggregate equipment and the presence of discharging and lifting devices, at this stage, no significant soil compaction occurred despite the very high soil moisture.</p>
+<p id="p-0089" num="0097">The next activity for carrying out the proposed method was sowing which was performed when the soil temperature had warmed up to the minimum value for the respective crop. For sowing, a self-propelled power-operated vehicle was also used which is capable of operating on tires having an ultra-low pressure of 5-60 kPa and with a pressure on the ground of less than 60 kPa, and the sower &#x201c;Lyubava&#x201d; (developed and manufactured by NPF &#x201c;Belagrospetsmash&#x201d;) was used as a sowing machine. Soil moisture during sowing was very high, about 70%. In addition, it was raining heavily. However, due to the use of the proposed assembly and the possibility of operating at increased moisture with a minimal compacting effect on the soil, productivity was increased owing to higher speed (the moisture turned into a lubricant, soil density decreased, and the negative impact of friction on the coulters was reduced). Since there was practically no soil compaction (as compared to the traditional technology) and sowing took place in oversaturated soil, the lupin shoots were strong and grew rapidly (&#x201c;sow in the mud and your wealth will bud&#x201d; says a Russian proverb).</p>
+<p id="p-0090" num="0098">The next activity for carrying out the proposed method was &#x201c;harrowing on shoots&#x201d;, since after the lupin shoots second-generation weeds also started to grow. Also for this activity, the UTES-271 &#x201c;Bars&#x201d; manufactured by NPF &#x201c;Belagrospetsmash&#x201d; was used, with a harrow as aggregate (also developed by NPF &#x201c;Belagrospetsmash&#x201d;), and equipped with discharging and lifting devices, and discharging wheels realized on ultra-low pressure tires operating, inter alia, at a pressure of 5 to 60 kPa with a possibility of adjusting the processing width (for choosing the appropriate track size and minimal pressure and minimal damage on the crops).</p>
+<p id="p-0091" num="0099">This activity was performed two more times within the agricultural season so as to eliminate weeds of the third and fourth generations. Although it was performed on shoots, due to the low pressure on the soil, the plants were damaged to an insignificant extent and quickly recovered.</p>
+<p id="p-0092" num="0100">The final step for carrying out the proposed technology was harvesting. However, due to the fact that at present there are no mass-produced harvesting assemblies based on self-propelled power-operated vehicles on ultra-low pressure tires operating, inter alia, at a pressure of 5 to 60 kPa and exerting a pressure of less than 60 kPa on the soil, and prototypes are not able to work on the field with full load, the main part of the crop was harvested by traditional harvesting appliances with a pressure of more than 60 kPa on the soil. Harvesting was carried out at an absolute soil moisture of 22%, which allowed to minimize the detrimental effect on the soil, i.e. soil compaction, (since at such moisture the soil is quite hard and the increased pressure is less of an issue).</p>
+<p id="p-0093" num="0101">As a result of the performed activities when carrying out the proposed invention, a serious economic effect was achieved, namely the production costs on the experimental field were more than two times lower than on the neighboring field cultivated with the traditional method and traditional equipment.</p>
+<p id="p-0094" num="0102">The reasons for this lay in the same technical result that had been achieved by using the proposed method for cultivating crops and the device for its implementation, namely:</p>
+<p id="p-0095" num="0103">reducing loss of the spring soil moisture reserves (since the activities were carried out in the period when the absolute soil moisture is more than 2% higher than the upper moisture limit of physical maturity of the soil and most of it remains in the soil),</p>
+<p id="p-0096" num="0104">optimizing the periods of sowing activities, (since the activities were carried out in the period when the absolute soil moisture is more than 2% higher than the upper moisture limit of physical maturity of the soil, i.e. in the period when it is optimal according to agrotechnical parameters),</p>
+<p id="p-0097" num="0105">obtaining strong shoots (due to the optimal sowing period and sprouting of seeds at increased soil moisture),</p>
+<p id="p-0098" num="0106">shifting the periods of sowing activities forward to an earlier period (since the activities were carried out in the period when the absolute soil moisture is more than 2% higher than the upper moisture limit of physical maturity of the soil),</p>
+<p id="p-0099" num="0107">reducing the dependence of sowing activities on soil conditions (since the proposed agricultural assembly for soil processing allows the performance of agricultural activities inter alia in the period when the absolute soil moisture is more than 2% higher than the upper moisture limit of physical maturity of the soil),</p>
+<p id="p-0100" num="0108">increasing the environmental friendliness of agricultural production, and consequently of the produced sown crops (as a result of the overall reduction of the use of herbicides and mineral fertilizers for said method, but with an increased yield of sown crops. In this experiment, chemicals were not used at all).</p>
+<p id="p-0101" num="0109">reducing the negative impact (compaction) of the agricultural assembly on the soil and of the soil on parts of the assembly (due to the reduction of the total weight of the sowing assembly and the specific pressure on the soil, the soil is less compacted, and since the soil is moister it has a weaker impact on the parts of the assembly),</p>
+<p id="p-0102" num="0110">increasing the speed of sowing activities (which is facilitated since the soil offers less resistance to the operating parts of the assembly),</p>
+<p id="p-0103" num="0111">increasing the period of vegetative development of crops (which is facilitated since the agricultural activities are carried out earlier),</p>
+<p id="p-0104" num="0112">reducing the specific fuel consumption (due to the increased speed when agricultural activities are carried out and since the soil offers less resistance to the operating parts of the assembly),</p>
+<p id="p-0105" num="0113">reducing the mass and dimensions of the sowing assembly (this becomes possible due to reduced loads on the parts of the assembly),</p>
+<p id="p-0106" num="0114">expanding the functionalities of the agricultural assembly while performing activities with minimal pressure on the soil (since it is equipped with a power-operated vehicle on ultra-low pressure tires operating, inter alia, at a pressure of 5 to 60 kPa and/or exerting a pressure of less than 60 kPa on the soil, with a universal lifting-hitching device and/or a discharging device which allows the use of an entire range of agricultural technological equipment (sower, harrow, sprayer, harvesting assembly, etc.), and</p>
+<p id="p-0107" num="0115">increasing the saving of resources when cultivating crops, e.g.:</p>
+<p id="p-0108" num="0000">a) the fuel consumption of UTES-271 &#x201c;Bars&#x201d; is 0.2 l/ha [liters per hectare] and the cost of fuel used per shift is 1692 rubles, while the fuel consumption of the self-propelled sprayer John Deere 4930 is 1.2 l/ha and the cost of fuel used per shift is 5200 rubles);
+<br/>
+b) savings when transporting water necessary for preparing the mixture: expenses for the transportation of water per shift are 302 rubles for UTES-271 &#x201c;Bars&#x201d; and 1646 rubles for the self-propelled sprayer John Deere 4930; and
+<br/>
+c) saving of herbicides when processing using UTES-271 &#x201c;Bars&#x201d; is 20-30%.
+</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+
+	<claims id="claims">
+
+		<claim id="CLM-00001" num="00001">
+			<claim-text><b>1</b>. Method for cultivating crops on a field, comprising:
+			<claim-text>in a technological operation, preparing the field,</claim-text>
+			<claim-text>in a technological operation subsequent to the preparing, sowing seeds for the crops using an agricultural sowing technology, and</claim-text>
+			<claim-text>in a technological operation subsequent to the sowing, harvesting the crops using an agricultural harvesting technology,</claim-text>
+			<claim-text>wherein all of the technological operations performed on the field beyond at most four per season use exclusively self-propelled, power-operated vehicles which operate on tires having an ultra-low pressure of 5-60 kPa with a pressure on the ground of the field of less than 60 kPa.</claim-text>
+			</claim-text>
+		</claim>
+
+		<claim id="CLM-00002" num="00002">
+			<claim-text><b>2</b>. Method for cultivating crops, according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+			<claim-text>wherein all of the technological operations&#x2014;without exception&#x2014;performed on the field, starting with the preparing operation prior to the sowing step and ending with the harvesting operation, use exclusively the self-propelled, power-operated vehicles which operate on tires having an ultra-low pressure of 5-60 kPa with a pressure on the ground of the field of less than 60 kPa.</claim-text>
+			</claim-text>
+		</claim>
+		
+		<claim id="CLM-00003" num="00003">
+			<claim-text><b>3</b>. Method for cultivating crops according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+			<claim-text>wherein any of the technological operations performed on the field use exclusively self-propelled, power-operated vehicles which operate on tires having an ultra-low pressure of 5-60 kPa with a pressure on the ground of the field of less than 60 kPa unless an absolute soil moisture of the ground is less than 26%.</claim-text>
+			</claim-text>
+		</claim>
+		
+		<claim id="CLM-00004" num="00004">
+			<claim-text><b>4</b>. Method for cultivating crops on a field, according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+			<claim-text>wherein any of the technological operations performed on the field use exclusively self-propelled, power-operated vehicles which operate on tires having an ultra-low pressure of 5-60 kPa with a pressure on the ground of the field of less than 60 kPa unless an absolute soil moisture of the ground is less than 1% of physical maturity of the soil.</claim-text>
+			</claim-text>
+		</claim>
+		
+		<claim id="CLM-00005" num="00005">
+			<claim-text><b>5</b>. Method for cultivating crops according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+			<claim-text>wherein all of the technological operations performed on the field other than the harvesting operation use exclusively self-propelled, power-operated vehicles which operate on tires having an ultra-low pressure of 5-60 kPa with a pressure on the ground of the field of less than 60 kPa.</claim-text>
+			</claim-text>
+		</claim>
+		
+		<claim id="CLM-00006" num="00006">
+			<claim-text><b>6</b>. The hitch device for an implement according to<claim-ref idref="CLM-00001"> claim 1</claim-ref>, wherein the hooking up device further comprises a third hooking element (<b>4</b>) located at the upper part of the second chassis, said hooking element acting as a retaining element for the agricultural implement.
+			</claim-text>
+		</claim>
+
+		<claim id="CLM-00007" num="00007">
+			<claim-text><b>7</b>. Transport and technological agricultural assembly, configured to operate on soil and comprising:
+			<claim-text>a self-propelled, power-operated vehicle outfitted with and operating on ultra-low-pressure tires at a pressure of between 5 and 60 kPa, wherein the tires exert a pressure of less than 60 kP on the soil,</claim-text>
+			<claim-text>wherein the vehicle is additionally outfitted with aggregate equipment comprising at least one of a discharging device and a lifting device.</claim-text>
+			</claim-text>
+		</claim>
+		
+		<claim id="CLM-00008" num="00008">
+			<claim-text><b>8</b>. Transport and technological agricultural assembly according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, further comprising at least one discharging wheel realized on ultra-low pressure tires operating at a pressure of 5 to 60 kPa.</claim-text>
+		</claim>
+		
+		<claim id="CLM-00009" num="00009">
+			<claim-text><b>9</b>. Transport and technological agricultural assembly according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the discharging wheels are equipped with an adjusting device for setting a processing width for the technological operation.</claim-text>
+		</claim>
+
+		<claim id="CLM-00010" num="00010">
+			<claim-text><b>10</b>. Transport and technological agricultural assembly according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the at least one discharging wheel is mounted on the aggregate equipment.</claim-text>
+		</claim>
+
+		<claim id="CLM-00011" num="00011">
+			<claim-text><b>11</b>. Transport and technological agricultural assembly according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, further comprising a system for lifting and lowering at least one of: the discharging device, discharging wheels of the discharging device, and the aggregate equipment.</claim-text>
+		</claim>
+
+		<claim id="CLM-00012" num="00012">
+			<claim-text><b>12</b>. Transport and technological agricultural assembly according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, further comprising a system for lifting and lowering at least one of the discharging device, the discharging wheels and the aggregate equipment, wherein the system is equipped with a hydraulic drive or a hydraulic cylinder.</claim-text>
+		</claim>
+
+		<claim id="CLM-00013" num="00013">
+			<claim-text><b>13</b>. Transport and technological agricultural assembly according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein at least one of the discharging device, a universal lifting-hitching device and the aggregate equipment comprises a turning mechanism.</claim-text>
+		</claim>
+		
+		<claim id="CLM-00014" num="00014">
+			<claim-text><b>14</b>. Transport and technological agricultural assembly according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the discharging device is configured as a semi-trailer on ultra-low pressure tires operating at a pressure of 5 to 60 kPa.</claim-text>
+		</claim>
+
+		<claim id="CLM-00015" num="00015">
+			<claim-text><b>15</b>. Transport and technological agricultural assembly according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the aggregate equipment comprises at least one of: a harrow, a cultivator, a sower, a fertilizer applicator, a binder, a mower, a thresher, and a plow.</claim-text>
+			</claim>
+		</claims>
+
+</us-patent-application>
+
+
